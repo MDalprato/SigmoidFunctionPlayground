@@ -4,7 +4,6 @@
 import UIKit
 import PlaygroundSupport
 
-var inputNumer = [0.0,1.0,2.0,3.0,4.0,5.0]
 
 func sigmoidFunc(input : Double) -> Double {
     
@@ -12,9 +11,9 @@ func sigmoidFunc(input : Double) -> Double {
 
 }
 
-for number in inputNumer {
+for number in -10...10 {
     
-    let out = sigmoidFunc(input: number)
+    let out = sigmoidFunc(input: Double(number))
     
     print(out)
 }
