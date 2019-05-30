@@ -3,7 +3,12 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/marcodalprato/Documents/GitHub/SigmoidFunctionPlayground/sigmoidFunc.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=227&amp;EndingColumnNumber=12&amp;EndingLineNumber=15&amp;StartingColumnNumber=9&amp;StartingLineNumber=15&amp;Timestamp=580913895.6556391"
+         documentLocation = "file:///Users/marcodalprato/Documents/GitHub/SigmoidFunctionPlayground/sigmoidFunc.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=227&amp;EndingColumnNumber=12&amp;EndingLineNumber=15&amp;StartingColumnNumber=9&amp;StartingLineNumber=15&amp;Timestamp=580939030.466853"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marcodalprato/Documents/GitHub/SigmoidFunctionPlayground/sigmoidFunc.playground#CharacterRangeLen=30&amp;CharacterRangeLoc=154&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=13&amp;StartingLineNumber=9&amp;Timestamp=580939030.467072"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

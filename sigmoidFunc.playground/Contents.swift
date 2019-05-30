@@ -17,3 +17,9 @@ for number in -10...10 {
     
     print(out)
 }
+
+
+let prova = sigmoidFunc(input: 7.0)
+
+print (prova)
+
